@@ -1,5 +1,5 @@
 ---
-title: "Another Page"
+title: "Another Page2"
 ---
 
 # TEST
